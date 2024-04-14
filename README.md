@@ -11,7 +11,7 @@ Make sure you have Node.js and npm installed on your machine. Then, follow these
 1. Clone the repository:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/chinmoyT/TextBot.git
 ```
 ## Navigate to project directory
 ```
